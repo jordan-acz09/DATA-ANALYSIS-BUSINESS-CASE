@@ -1,4 +1,5 @@
 Project Overview:
+
 Conducted a comprehensive benchmarking analysis of competitor pricing for DigiHaul, a digital platform providing freight solutions.
 
 Key Achievements:
